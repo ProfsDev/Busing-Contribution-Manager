@@ -19,7 +19,6 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.prof.bcm.DbSetup;
 import com.prof.bcm.R;
 import com.prof.bcm.constituency.ConstituencyActivity;
 import com.prof.bcm.helper.DbProperties;
