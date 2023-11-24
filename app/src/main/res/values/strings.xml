@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BCM App</string>
+    <string name="app_name">BCM</string>
 
     <!--ConstituencyOverview class-->
     <string name="constituency">Constituency</string>
