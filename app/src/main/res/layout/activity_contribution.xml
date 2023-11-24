@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".contribution.ContributionActivity"
+    android:orientation="vertical">
+
+    <!--Bacenta Heading-->
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tv_name_of_bacenta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/bell_mt_regular"
+        android:gravity="center"
+        android:text="@string/tv_bacenta_name"
+        style="@style/TextAppearance.Material3.HeadlineLarge" />
+
+    <!--Card recyclerview for the details-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/contribution_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        tools:listitem="@layout/contribution_view"/>
+
+
+</LinearLayout>

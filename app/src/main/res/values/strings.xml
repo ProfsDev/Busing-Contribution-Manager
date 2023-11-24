@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BCM App</string>
+
+    <!--ConstituencyOverview class-->
+    <string name="constituency">Constituency</string>
+    <string name="head_name">Head Name</string>
+    <string name="category">Constituencies</string>
+    <string name="date">August, 2022</string>
+    <string name="bacentas">Bacentas</string>
+    <string name="bacenta_name">Bacenta Name</string>
+
+    <!--Signup class-->
+    <string name="welcome">Welcome</string>
+    <string name="welcome_sub">Signup into your account</string>
+    <string name="tv_signup">Sign Up</string>
+
+    <!--Computation class-->
+    <string name="tv_bacenta_name">Name of Bacenta</string>
+</resources>

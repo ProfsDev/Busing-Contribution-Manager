@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "602111142860",
+    "project_id": "busing-manager-21bef",
+    "storage_bucket": "busing-manager-21bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602111142860:android:b80f9ea100a30608084b69",
+        "android_client_info": {
+          "package_name": "com.busing.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602111142860-0e1opf67ij24lr4s7gcrv0b4q79qcvrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPz60YUoi4trRJwNHR1u32hTXTX7nHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602111142860-0e1opf67ij24lr4s7gcrv0b4q79qcvrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602111142860:android:5457670d000fe63b084b69",
+        "android_client_info": {
+          "package_name": "com.prof.bcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602111142860-0e1opf67ij24lr4s7gcrv0b4q79qcvrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPz60YUoi4trRJwNHR1u32hTXTX7nHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602111142860-0e1opf67ij24lr4s7gcrv0b4q79qcvrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
