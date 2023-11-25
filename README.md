@@ -44,10 +44,6 @@ To start using BCM, follow these steps:
         ```
     - Install the app on your Android device. The apk can be found in `/APK` directory
       OR
-    - Clone the repository
-       ```
-        git clone https://github.com/ProfsDev/Busing-Contribution-Manager.git
-       ```
     - Open the project in android studio
     - Configure an Emulator (Virtual Device) or a physical android device
     - Run the application
