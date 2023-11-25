@@ -38,7 +38,7 @@ Welcome to the Busing Contribution Manager (BCM), an Android application tailore
 To start using BCM, follow these steps:
 
 1. **Install the App:**
-    - Download and install the app on your Android device.
+    - Download and install the app on your Android device. The apk can be found in `/APK` directory
 
 2. **Launch the App:**
     - Open the Contribution Manager App on your device.
